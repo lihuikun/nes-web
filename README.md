@@ -88,7 +88,7 @@ nes-web
 
 前端和后端需要分别安装依赖，前端包管理器`yarn`，后端包管理器`pnpm`。
 
-后端需要的游戏ROM、图片等静态资源，我单独打包放在[release](../../releases/download/v0.0.1/roms.zip)里，下载、解压后将roms文件夹放在server文件夹内即可。
+后端需要的游戏ROM、图片等静态资源，我单独打包放在[release](https://github.com/lihuikun/nes-web/releases/download/untagged-58dc294738a6e8ac92bd/roms.zip)里，下载、解压后将roms文件夹放在server文件夹内即可。
 
 ### 启动服务端
 
